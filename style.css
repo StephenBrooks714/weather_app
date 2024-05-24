@@ -17,7 +17,10 @@ body {
   background-position: top center;
   background-size: cover;
 }
-
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
 .header h4 {
   color: #da1e4e;
   font-weight: 700;
